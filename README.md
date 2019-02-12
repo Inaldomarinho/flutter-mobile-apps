@@ -11,25 +11,25 @@ Saiba mais sobre o flutter nesse artigo no [Medium](https://medium.com/liferay-e
 
 O Aplicativo consiste em uma agenda de contato que permite o usuário criar, editar, excluir, ligar(o aplicativo redireciona para realizar a ligação) e ordenar de forma diferente novos contatos. Além de permitir atribuir uma foto a cada usuário que pode ser da câmera ou galeria.
 
-![Sorteador](images/agenda_contatos.png)
+![Agenda de Contatos](images/agenda_contatos.png)
 
 ### Buscador de Gifs
 
 O Buscador de Gifs é um aplicativo que faz uso da API do GIPHI para buscar os gifs. O usuário pode buscar gifs, ver os mais populares e compartilhar os mesmo em plataformas como o Whats App.
 
-![Sorteador](images/buscador_gifs.png)
+![Buscador de Gifs](images/buscador_gifs.png)
 
 ### Calculadora IMC
 
 Esse aplicativo é bem básico e simples. A partir do peso e altura inseridas pelo usuário ele diz como esta o IMC do mesmo.
 
-![Sorteador](images/calculadora_imc.png)
+![Calculadora IMC](images/calculadora_imc.png)
 
 ### Chat Online
 
 Esse aplicativo é um chat online e o Firebase que é uma plataforma da google que auxilia no desenvolvimento de aplicações mobile e web. Esse aplicativo consiste em um chat de mensagens com várias pessoas, onde todas que possuirem o aplicativo podem visualizar o mesmo, mas para enviar a mensangem precisa esta logado em uma conta do google.
 
-![Sorteador](images/chat_online.png)
+![Chat Online](images/chat_online.png)
 
 ### Contador de Pessoas
 
@@ -40,7 +40,7 @@ O primeiro aplicativo desenvolvido ao longo de curso que tinha como objetivo faz
 
 Tal aplicativo utiliza uma API que fornece os valores da moeda em tempo real e faz a conversão automática. Um exemplo do seu funcionamento é você colocar o valor em reais e ele retorna para você em euro e libras. 
 
-![Sorteador](images/conversor_moedas.png)
+![Conversor de Moedas](images/conversor_moedas.png)
 
 ### Loja Virtual
 
@@ -48,9 +48,9 @@ Tal aplicativo utilizar o Firebase e as ferramentas fornecidas por ele. A Loja V
 
 Esse aplicativo precisa de pouquissimas modificações para ser disponibilizado a alguma loja virtual.
 
-![Sorteador](images/loja_virtual.png)
+![Loja Virtual](images/loja_virtual.png)
 
-![Sorteador](images/loja_virtual2.png)
+![Loja Virtual](images/loja_virtual2.png)
 
 ### Organizador de Tarefas
 
@@ -58,5 +58,5 @@ Esse aplicativo precisa de pouquissimas modificações para ser disponibilizado 
 
 Esse aplicativo consiste em um organizador de tarefas e seu funcionamento se dá da seguinte maneira: Você pode adicionar e remover tarefas a sua lista de tarefas e alterar o status das tarefas existentes, dando "ok" nas tarefas feitas. Além disso o aplicativo separa as tarefas feitas das não feitas, facilitando a visualização de tarefas pendentes ao longo do dia.
 
-![Sorteador](images/organizador_tarefas.png)
+![Organizador de Tarefas](images/organizador_tarefas.png)
 
