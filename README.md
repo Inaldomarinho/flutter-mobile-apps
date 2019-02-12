@@ -35,6 +35,8 @@ Esse aplicativo é um chat online e o Firebase que é uma plataforma da google q
 
 O primeiro aplicativo desenvolvido ao longo de curso que tinha como objetivo fazer um simples contador de pessoas em um restaurante. A cada pessoa que entrava o responsável apertaria o botão e o numero de pessoas seria incrementado.
 
+O aplicativo consiste em básicamente apenas um botão, por isso não colocarei uma foto.
+
 
 ### Conversor de Moedas
 
