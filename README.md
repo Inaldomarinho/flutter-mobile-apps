@@ -5,8 +5,6 @@ Saiba mais sobre o flutter nesse artigo no [Medium](https://medium.com/liferay-e
 
 ## Informações sobre os aplicativos
 
-- Tais projetos foram propostos ao longo de um curso do framework.
-
 ### Agenda de Contatos
 
 O Aplicativo consiste em uma agenda de contato que permite o usuário criar, editar, excluir, ligar(o aplicativo redireciona para realizar a ligação) e ordenar de forma diferente novos contatos. Além de permitir atribuir uma foto a cada usuário que pode ser da câmera ou galeria.
